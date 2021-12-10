@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+plotly
+kaleido
+psutil
+requests
+sklearn
+sympy
+tinyik
